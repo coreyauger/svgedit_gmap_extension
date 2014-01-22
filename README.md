@@ -52,3 +52,7 @@ $(function(){
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/coreyauger/svgedit_gmap_extension/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
